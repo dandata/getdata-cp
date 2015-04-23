@@ -170,50 +170,50 @@ Body Jerk acceleration signal after FFT standard deviation for Y axis. Units: m/
 ###### fBodyAccJerk-std()-Z
 Body Jerk acceleration signal after FFT standard deviation for Z axis. Units: m/s^2
 
-###### BodyGyro-mean()-X
+###### fBodyGyro-mean()-X
 Body angular velocity signal after FFT mean for X axis. Units: rad/s
 
-###### BodyGyro-mean()-Y
+###### fBodyGyro-mean()-Y
 Body angular velocity signal after FFT mean for Y axis. Units: rad/s
 
-###### BodyGyro-mean()-Z
+###### fBodyGyro-mean()-Z
 Body angular velocity signal after FFT mean for Z axis. Units: rad/s
 
-###### BodyGyro-std()-X
+###### fBodyGyro-std()-X
 Body angular velocity signal after FFT standard deviation for X axis. Units: rad/s
 
-###### BodyGyro-std()-Y
+###### fBodyGyro-std()-Y
 Body angular velocity signal after FFT standard deviation for Y axis. Units: rad/s
 
-###### BodyGyro-std()-Z
+###### fBodyGyro-std()-Z
 Body angular velocity signal after FFT standard deviation for Z axis. Units: rad/s
 
-###### BodyAccMag-mean()
+###### fBodyAccMag-mean()
 Body acceleration magnitude after FFT mean. Units: m/s^2
 
-###### BodyAccMag-std()
+###### fBodyAccMag-std()
 Body acceleration magnitude after FFT standard deviation. Units: m/s^2
 
-###### GravityAccMag-mean()
+###### fGravityAccMag-mean()
 Gravity acceleration magnitude after FFT mean. Units: m/s^2
 
-###### GravityAccMag-std()
+###### fGravityAccMag-std()
 Gravity acceleration magnitude after FFT standard deviation. Units: m/s^2
 
-###### BodyAccJerkMag-mean()
+###### fBodyAccJerkMag-mean()
 Body Jerk acceleration magnitude after FFT mean. Units: m/s^2
 
-###### BodyAccJerkMag-std()
+###### fBodyAccJerkMag-std()
 Body Jerk acceleration magnitude after FFT standard deviation. Units: m/s^2
 
-###### BodyGyroMag-mean()
+###### fBodyGyroMag-mean()
 Body angular velocity magnitude after FFT mean. Units: rad/s
 
-###### BodyGyroMag-std()
+###### fBodyGyroMag-std()
 Body angular velocity magnitude after FFT standard deviation. Units: rad/s
 
-###### BodyGyroJerkMag-mean()
+###### fBodyGyroJerkMag-mean()
 Body Jerk angular velocity magnitude after FFT mean. Units: rad/s
 
-###### BodyGyroJerkMag-std()
+###### fBodyGyroJerkMag-std()
 Body Jerk angular velocity magnitude after FFT standard deviation. Units: rad/s
