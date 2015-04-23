@@ -1,5 +1,5 @@
 ## About data
-30 subjects were selected to get data from their mobile phone. Each subject attributed with one or more activity. The data come from the accelerometer and gyroscope 3-axial raw signals Acc-XYZ and Gyro-XYZ.
+30 subjects were selected to get data from their mobile phone. Each subject attributed with one or more activity. The data come from the accelerometer and gyroscope 3-axial raw signals Acc-XYZ and Gyro-XYZ. The acceleration signal was then separated into body and gravity acceleration signals (BodyAcc-XYZ and GravityAcc-XYZ).
 
 Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (BodyAccJerk-XYZ and BodyGyroJerk-XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (BodyAccMag, GravityAccMag, BodyAccJerkMag, BodyGyroMag, BodyGyroJerkMag).
 
